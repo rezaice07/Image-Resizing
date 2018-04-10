@@ -4,8 +4,8 @@ This a asp.net mvc application to resize images by using parameter as a query st
 To implement image size option for your media content like image, just follow the following process .....
 
 step-01:
- a. get the nuget package from https://www.nuget.org/packages/ImageResizer/
- b. run in nuget console for your specific project: Install-Package ImageResizer -Version 4.2.5
+a. get the nuget package from https://www.nuget.org/packages/ImageResizer/	
+b. run in nuget console for your specific project: Install-Package ImageResizer -Version 4.2.5
  
 step-02:
  a. add inside section <configuration> in web.config file for:
